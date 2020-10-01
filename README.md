@@ -1,4 +1,4 @@
-This github page holds the code for Unity plugin Realtime-CSG
+This github page holds the code for Unity plugin Realtime-CSG:
 https://assetstore.unity.com/packages/tools/modeling/realtime-csg-69542
 
 
